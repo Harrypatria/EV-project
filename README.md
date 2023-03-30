@@ -1,6 +1,6 @@
 ### EV-project
 #### EV Charging Station Siting Analysis
-#### Introduction/Business Problem:  
+#### Introduction to Business Problem:  
 - Background: 
 This code was written as part of the requirements of the IBM/Coursera Data Science Professional 
 Career Track Specialization. Students were asked to choose a problem and utilize skills acquired 
